@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "spvgoNHREcuNP304m523zlN1qg+MdYNC3Ba4eoUieUppT41PMiVs53pA7Qc5LsRUL3WL8QZ3yo/nJngcWAK+wg==",
+  "success": true,
+  "projectFilePath": "C:\\workshops\\camp\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehmet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
